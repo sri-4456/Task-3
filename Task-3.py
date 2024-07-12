@@ -111,4 +111,12 @@ def main():
 if __name__ == "__main__":
     main()
 
+output:
+Contact Management System
+1. Add Contact
+2. View Contacts
+3. Search Contact
+5. Delete Contact
+6. Exit
+
 
